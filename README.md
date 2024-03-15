@@ -1,0 +1,2 @@
+# discord_typing_forever
+A C program that spoof typing action on discord WARNING THIS COULD GET YOUR DISCORD ACCOUNT TERMINATED I'M RESPONSABLE FOR ANY ACCOUNT TERMINATIONS
