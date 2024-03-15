@@ -18,8 +18,6 @@ int main(void){
         printf("Typing api url: ");scanf("%s", url);
         printf("Authorization:  ");scanf("%s", token);
 
-	printf("\nTyping....");
-
 	while(true){
 		sleep(1);
         	type(url,token);
